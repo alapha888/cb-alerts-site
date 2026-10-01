@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alapha888.github.io/cb-alerts-site/sitemap.xml
